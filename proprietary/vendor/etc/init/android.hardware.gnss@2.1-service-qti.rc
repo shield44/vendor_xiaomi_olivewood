@@ -21,3 +21,6 @@ service gnss_service /vendor/bin/hw/android.hardware.gnss@2.1-service-qti
     capabilities NET_BIND_SERVICE
     capabilities NET_BIND_SERVICE
     capabilities NET_BIND_SERVICE
+    capabilities NET_BIND_SERVICE
+    capabilities NET_BIND_SERVICE
+    capabilities NET_BIND_SERVICE
